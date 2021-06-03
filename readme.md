@@ -16,5 +16,9 @@ This project implemented three screens of the portal: My Invoice Status, Order S
 6. angular-owl-carousel2 1.0.6
 7. material-steppers 2.0.0
 
-##Notes
+
+### Notes
+
+The source code which wins in topcoder competitions is not allowed on github.
+
 All codes were transfered to the client at the end of the challenge.
