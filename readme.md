@@ -12,5 +12,7 @@ This project implemented three screens of the portal: My Invoice Status, Order S
 2. NPM
 3. Angular Material 1.1.7
 4. SCSS
-
+5. amcharts3 3.21.12
+6. angular-owl-carousel2 1.0.6
+7. material-steppers 2.0.0
 
