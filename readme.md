@@ -8,7 +8,7 @@ All codes were transfered to the client at the end of the challenge.
 This project implemented three screens of the portal: My Invoice Status, Order Status, and Forecast page. 
 
 ## Prerequisites
-1. Angular 7
+1. Angular 1.5.11
 2. NPM
 3. Angular Material 1.1.7
 4. SCSS
