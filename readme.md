@@ -1,4 +1,4 @@
-### Angular7 Ionic Miliu Ionic Framework Application Code Challenge  
+### Angular7 ABB Supplier Portal Code Challenge  
 I won the 2nd place in this competition. 
 https://www.topcoder.com/challenges/6ce62305-bc9f-4ee4-82f9-710e58d09aeb?tab=winners
 All codes were transfered to the client at the end of the challenge.
