@@ -21,4 +21,4 @@ This project implemented three screens of the portal: My Invoice Status, Order S
 
 The source code which wins in topcoder competitions is not allowed on github.
 
-All codes were transfered to the client at the end of the challenge.
+All codes  (for which prize money has been offered)  were transfered to the client at the end of the challenge.
